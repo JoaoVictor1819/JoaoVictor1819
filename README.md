@@ -27,7 +27,7 @@
 
 ###
 
-<p data-importer="text" align="left">-📍 Rio Grande do Norte, Brasil<br>-📗 Cursando Engenharia de Software<br>-🌱 Estudando Java ☕<br>- 🎯 Focado em me tornar dev Back-End<br>-💡 Nas horas livres, estudo novas tecnologias e pratico lógica de programação</p>
+<p data-importer="text" align="left">-📍 Rio Grande do Norte, Brasil<br>-📗 Cursando Engenharia de Software<br>-🌱 Estudando Spring boot🍃<br>- 🎯 Focado em me tornar dev Back-End<br>-💡 Nas horas livres, estudo novas tecnologias e pratico lógica de programação</p>
 
 ###
 
