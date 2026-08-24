@@ -1,4 +1,4 @@
-<img data-importer="image" align="right" height="149" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
 
 ###
 
@@ -12,10 +12,6 @@
 </div>
 
 ###
-
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=JoaoVictor1819.JoaoVictor1819&"  />
-</div>
 
 ###
 
