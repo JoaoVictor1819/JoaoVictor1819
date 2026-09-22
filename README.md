@@ -18,7 +18,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">👨‍💻Sobre mim:<br><br>Estudante de Engenharia de Software, focado em me tornar desenvolvedor Back-End.<br><br>Trilha de estudos que venho construindo por fora da faculdade:<br><br>✅Java<br>✅Git & GitHub<br>✅MySQL<br>⌛Spring Boot<br>REST API<br>Docker<br>AWS<br><br>Estudo com constância e curiosidade, buscando não só aprender as ferramentas, mas entender o "porquê" por trás delas — e mirando, no futuro, em oportunidades internacionais na área.</h3>
+<h3 data-importer="text" align="left">👨‍💻Sobre mim:<br><br>Estudante de Engenharia de Software, focado em me tornar desenvolvedor Back-End.<br><br>Trilha de estudos que venho construindo por fora da faculdade:<br><br>✅Java<br>✅Git & GitHub<br>✅MySQL<br>⌛Spring Boot<br>⌛REST API<br>Docker<br>AWS<br><br>Estudo com constância e curiosidade, buscando não só aprender as ferramentas, mas entender o "porquê" por trás delas — e mirando, no futuro, em oportunidades internacionais na área.</h3>
 
 ###
 
