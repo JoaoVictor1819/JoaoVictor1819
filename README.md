@@ -1,53 +1,93 @@
 
-###
+<h1 align="center">Olá, eu sou o João Victor 👋</h1>
 
-<div data-importer="socials" align="center">
+<p align="center">
+  <b>Estudante de Engenharia de Software • Futuro Dev Back-End</b><br>
+  Transformando lógica em código e código em APIs que funcionam.
+</p>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/joao-victor-lopes-de-medeiros-56774335a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/jvictorlopes_m/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="Instagram" />
+  </a>
+  <a href="mailto:victorlopesdemedeirosjoao@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="Gmail" />
   </a>
 </div>
 
-###
+---
 
-###
+## 👨‍💻 Sobre mim
 
-<h2 data-importer="text" align="center">Olá Mundo!, Bem vindo a o meu perfil 👋</h2>
+Sou estudante de Engenharia de Software e estou construindo minha carreira como **desenvolvedor Back-End**. Além da faculdade, sigo uma trilha de estudos própria, com foco em **Java e no ecossistema Spring**.
 
-###
+Não quero só aprender as ferramentas: gosto de entender o **"porquê"** por trás delas. É por isso que costumo documentar o que construo e praticar lógica de programação nas horas livres.
 
-<h3 data-importer="text" align="left">👨‍💻Sobre mim:<br><br>Estudante de Engenharia de Software, focado em me tornar desenvolvedor Back-End.<br><br>Trilha de estudos que venho construindo por fora da faculdade:<br><br>✅Java<br>✅Git & GitHub<br>✅MySQL<br>⌛Spring Boot<br>⌛REST API<br>⌛Docker<br>⌛AWS<br><br>Estudo com constância e curiosidade, buscando não só aprender as ferramentas, mas entender o "porquê" por trás delas — e mirando, no futuro, em oportunidades internacionais na área.</h3>
+🎯 **Objetivo atual:** conquistar um estágio em desenvolvimento Back-End
+🌍 **Mais adiante:** trabalhar com tecnologia em projetos internacionais
 
-###
+---
 
-<p data-importer="text" align="left">-📍 Rio Grande do Norte, Brasil<br>-📗 Cursando Engenharia de Software<br>-🌱 Estudando Spring boot🍃<br>- 🎯 Focado em me tornar dev Back-End<br>-💡 Nas horas livres, estudo novas tecnologias e pratico lógica de programação</p>
+## 🌱 Em foco agora
 
-###
+- 🍃 Aprofundando em **Spring Boot** (JPA, relacionamentos entre entidades, DTOs)
+- 🔐 Estudando **Spring Security** e **testes automatizados**
+- 🐳 Dando os primeiros passos com **Docker**
+- 🇺🇸 Melhorando meu **inglês técnico**
 
-<h3 data-importer="text" align="left">🛠 Linguagem e ferramentas</h3>
+---
 
-###
+## 🚀 Projetos em destaque
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="41" alt="MySQL logo"   />
+| Projeto | O que é | Tecnologias |
+|---|---|---|
+| [**API Funcionário & Departamento**](COLOQUE-O-LINK-DO-REPOSITORIO) | API REST com relacionamentos entre entidades, DTOs e operações de CRUD | `Java` `Spring Boot` `JPA` `MySQL` |
+| [**Nome do seu outro projeto**](COLOQUE-O-LINK-DO-REPOSITORIO) | Descreva em uma linha o problema que ele resolve | `Tecnologias` |
+
+> 💡 Dica: fixe (pin) os 2 ou 3 melhores repositórios no seu perfil e garanta que cada um tenha um README explicando o que faz e como rodar.
+
+---
+
+## 🛠 Stack e ferramentas
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center"><b>✅ Já uso no dia a dia</b></td>
+    <td align="center"><b>⌛ Aprendendo agora</b></td>
+    <td align="center"><b>🔭 No radar</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java,mysql,git,github&perline=4" alt="Java, MySQL, Git e GitHub" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=spring,docker&perline=2" alt="Spring Boot e Docker" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=aws&perline=1" alt="AWS" />
+    </td>
+  </tr>
+</table>
+
+</div>
+---
+
+## 📊 Atividade no GitHub
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=JoaoVictor1819&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="170" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictor1819&layout=compact&theme=dark&hide_border=false&border_radius=5" height="170" alt="Linguagens mais usadas" />
 </div>
 
-###
+---
 
-<h3 data-importer="text" align="left">🔥   Meus Status:</h3>
+## 📫 Vamos conversar?
 
-###
+Estou **aberto a oportunidades de estágio em Back-End** e adoro trocar ideias com quem está na área. Me chama no [LinkedIn](https://www.linkedin.com/in/joao-victor-lopes-de-medeiros-56774335a/) ou por e-mail.
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=JoaoVictor1819&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+<p align="center"><i>"Primeiro faça funcionar, depois entenda por quê, depois deixe bonito."</i> 🚀</p>
