@@ -1,22 +1,5 @@
 
-<h1 align="center">Olá, eu sou o João Victor 👋</h1>
-
-<p align="center">
-  <b>Estudante de Engenharia de Software • Futuro Dev Back-End</b><br>
-  Transformando lógica em código e código em APIs que funcionam.
-</p>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/joao-victor-lopes-de-medeiros-56774335a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/jvictorlopes_m/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="Instagram" />
-  </a>
-  <a href="victorlopesdemedeirosjoao@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&c_olor=D14836&logoColor=white&style=for-the-badge" height="25" alt="Gmail" />
-  </a>
-</div>
+<h1 align="center">Olá, eu sou o João Victor 👋</h1> <p align="center"> <b>Estudante de Engenharia de Software • Futuro Dev Back-End</b><br> Transformando lógica em código e código em APIs que funcionam. </p> <div align="center"> <a href="https://www.linkedin.com/in/joao-victor-lopes-de-medeiros-56774335a/" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" /> </a> <a href="https://www.instagram.com/jvictorlopes_m/" target="_blank"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="Instagram" /> </a> <a href="mailto:victorlopesdemedeirosjoao@gmail.com"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="Gmail" /> </a> </div> <p align="center">📧 victorlopesdemedeirosjoao@gmail.com</p>
 
 ---
 
