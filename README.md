@@ -27,10 +27,10 @@ Não quero só aprender as ferramentas: gosto de entender o **"porquê"** por tr
 
 | Projeto | O que é | Tecnologias |
 |---|---|---|
-| [**API Funcionário & Departamento**](COLOQUE-O-LINK-DO-REPOSITORIO) | API REST com relacionamentos entre entidades, DTOs e operações de CRUD | `Java` `Spring Boot` `JPA` `MySQL` |
-| [**Nome do seu outro projeto**](COLOQUE-O-LINK-DO-REPOSITORIO) | Descreva em uma linha o problema que ele resolve | `Tecnologias` |
+| [**API Funcionário & Departamento**](https://github.com/JoaoVictor1819/Relacionando-funcionarios-departamento) | API REST com relacionamentos entre entidades, DTOs e operações de CRUD | `Java` `Spring Boot` `JPA` `MySQL` |
+| [**API Pedidos & Clientes**](https://github.com/JoaoVictor1819/ApiRest-PedidosClientes) | API REST com relacionamento entre entidade, enums, Dtos, GlobalExcptionHandler, e CRUD | `Java` `Spring Boot` `Banco de dados (MYSQL)` `JPA`|
 
-> 💡 Dica: fixe (pin) os 2 ou 3 melhores repositórios no seu perfil e garanta que cada um tenha um README explicando o que faz e como rodar.
+
 
 ---
 
